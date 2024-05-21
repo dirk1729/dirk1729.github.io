@@ -6,7 +6,6 @@ Here we will give you some tips on how to customize the website. One important t
 
 The project is structured as follows, focusing on the main components that you will need to modify:
 
--
 ## Configuration
 
 The configuration file [\_config.yml](_config.yml) contains the main configuration of the website. Most of the settings is self-explanatory and we also tried to add as much comments as possible. If you have any questions, please check if it was not already answered in the [FAQ](FAQ.md).
