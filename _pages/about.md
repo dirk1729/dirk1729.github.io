@@ -9,7 +9,7 @@ profile:
   image: prof.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Physical Sciences 209</p>
+    <p>Physical Sciences 252</p>
     <p>Athletic Avenue</p>
     <p>Stillwater, OK 74075</p>
 
